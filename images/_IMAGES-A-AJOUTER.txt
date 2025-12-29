@@ -1,0 +1,31 @@
+📸 AJOUTEZ VOS 12 IMAGES DE PROJETS ICI
+
+Renommez vos captures d'écran avec exactement ces noms :
+
+✅ PROJET 1 - Application SaaS Multi-Tenant
+   → project1-main.jpg (1200x675px)
+   → project1-1.jpg (800x450px) 
+   → project1-2.jpg (800x450px)
+
+✅ PROJET 2 - Automatisation Tri de CVs
+   → project2-main.jpg (1200x675px)
+   → project2-1.jpg (800x450px)
+   → project2-2.jpg (800x450px)
+
+✅ PROJET 3 - Application Messagerie
+   → project3-main.jpg (1200x675px)
+   → project3-1.jpg (800x450px)
+   → project3-2.jpg (800x450px)
+
+✅ PROJET 4 - Musify
+   → project4-main.jpg (1200x675px)
+   → project4-1.jpg (800x450px)
+   → project4-2.jpg (800x450px)
+
+💡 ASTUCE : 
+- Format JPG ou PNG accepté
+- Optimisez sur TinyPNG.com (< 300KB)
+- Les noms doivent être EXACTEMENT comme indiqué
+- Supprimez ce fichier une fois vos images ajoutées
+
+✅ Votre photo de profil (profile-pic.png) est déjà là !
